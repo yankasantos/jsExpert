@@ -5,3 +5,4 @@ const constants = {
         FILE_INVALID_HEADER_ERROR_MESSAGE: 'The provided properties are invalid',
     }
 }
+module.exports = constants
